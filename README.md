@@ -1,2 +1,1 @@
-tokenize_string
-"# typedef_struct" 
+typedef_struct
